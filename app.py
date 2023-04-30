@@ -1,4 +1,3 @@
-import streamlit as st
 import urllib
 from PIL import Image
 from transformers import VisionEncoderDecoderModel, AutoTokenizer, ViTImageProcessor
